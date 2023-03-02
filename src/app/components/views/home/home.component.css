@@ -1,0 +1,27 @@
+.home {
+    width: 95%;
+    background-color: #585858;
+    margin: 1rem auto;
+}
+
+.title {
+font-size: 10px;
+padding-left: 5px;
+}
+
+.subtitle {
+font-size: 8px;
+padding-left: 5px;
+}
+
+@media(max-width: 450px){
+    .home {
+        width: 70%;
+    }
+}
+
+@media(max-width: 770px){
+    .home {
+        width: 90%;
+    }
+}
