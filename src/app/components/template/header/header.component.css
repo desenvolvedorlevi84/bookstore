@@ -19,3 +19,7 @@ span {
     display: flex;
     align-items: center;
 }
+
+.titulo_da_loja h1 {
+    margin: 0 0 0px;
+}
